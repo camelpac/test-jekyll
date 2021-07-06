@@ -6,7 +6,7 @@ on:
       - gh-pages # or master before October 2020
 
 jobs:
-  github-pages:
+  github-pages2:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
